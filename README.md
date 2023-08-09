@@ -25,8 +25,7 @@ updating the status of previously applied jobs.
 - [API](#api)
 - [Future](#future)
 - [Authors](#authors)
-    - [Christopher Choe](#christopher-choe)
-    - [Susan Su](#susan-su)
+    - [wongani1](#wongani1)
 - [Acknowledgments](#acknowledgements)
 
 ## The Story
