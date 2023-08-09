@@ -1,10 +1,10 @@
-# Job Odyssey Holberton
+# mtkn
 
-<a href="https://jobodyssey.hbtn.io">
-    <img src="https://i.imgur.com/Z9dBwqq.png" alt="jobodyssey" title="JobOdyssey">
+<a href="https://mtkn.hbtn.io">
+    <img src="https://i.imgur.com/Z9dBwqq.png" alt="mtkn" title="mtkn">
 </a>
 
-[Job Odyssey](https://jobodyssey.hbtn.io) is a web application that is designed to gamify and organize your job search! Job Odyssey is specifically designed for
+[mtkn](https://mtkn.hbtn.io) is a web application that is designed to gamify and organize your job search! Job Odyssey is specifically designed for
 software engineers, with features to fit the software engineer job application process.
 To achieve this goal, Job Odyssey provides a unique reward and currency system that is designed to re-energize your job 
 search. Users can generate currency by performing certain actions - such as saving a job post, applying to jobs, and 
@@ -31,13 +31,13 @@ updating the status of previously applied jobs.
 
 ## The Story
 
-At first, Job Odyssey was envisioned as much different to what it is now.
+At first, mtkn was envisioned as much different to what it is now.
 It started as an idea for parsing and aggregating job listings for a user. However this idea was quickly changed because of the difficulty in obtaining job search API access.
 So faced with a road block, we actually thought about what would be a useful product. While the original thought seemed interesting, the usefulness seemed limited.
 So brainstorming led to the insight that with the huge amount of jobs a software engineer applicant can go through, organization and motivation could dwindle quickly.
 Job Odyssey attempts to address that by organizing applications and adding visible progression along the journey. We want to be there for support from the humble beginnings, the ups and downs, to hopefully, the ultimate success.
 
-That is why we are called Job Odyssey!
+That is why we are called mtkn!
 
 As an update to Job Odyssey, Holberton requested it be used to track students who were looking for jobs. This meant creating more features that helped to keep the data organized and searchable. This was done through some frontend changes and by creating a script and changes that allowed for weekly emails that reported on a user's work.
 
@@ -81,7 +81,7 @@ Access it on jobodyssey.com and create an account today!
 
 ## Features
 
-Job Odyssey has features that can be found through our dropdown navigation bar menu.
+mtkn has features that can be found through our dropdown navigation bar menu.
 
 <img width=50% src="https://i.imgur.com/h9BlAQx.png">
 
@@ -91,7 +91,7 @@ These features will be explored below!
 
 ### **GitHub OAuth**
 
-Job Odyssey handles user authorization through the Github OAuth. In order for
+mtkn handles user authorization through the Github OAuth. In order for
 user data to be more secure, users are handled completely through authorization by Github. If you would like to logout, the authorization token will be erased but to have a completely separate user experience you will have to logout of Github as well.
 
 <img width=50% src="https://i.imgur.com/4xbKtA1.png">
@@ -195,18 +195,10 @@ the view and formatting of the applied jobs easier to navigate and explore. Alon
 If you have any suggestions or would like to contribute to Job Odyssey, please contact either of us.
 
 ## Authors
-### **Christopher Choe**
-[christopherchoe](https://christopherchoe.github.io)
+### **wongani1**
+[wongani1](https://wongani1.github.io)
 
-Chris is a backend software engineer, working on the system design, database, and REST API for the most part with some fingerprints in the frontend in order to better understand and integrate the backend into the whole picture.
-
-### **Susan Su**
-[suhearsawho](https://suhearsawho.github.io)
-    
-Susan is a full stack software engineer who enjoys both backend work and frontend work, taking charge of the design and React portions of Job Odyssey while still being heavily involved in the backend database and API work as well. 
-    
-If you would like to contact [Susan](https://suhearsawho.github.io/) or [Chris](https://christopherchoe.github.io) about any opportunities, feel free to reach out!
-
+wongani1 is a backend software engineer, working on the system design, database, and REST API for the most part with some fingerprints in the frontend in order to better understand and integrate the backend into the whole picture.
 
 ## Acknowledgements
 * [Holberton School](https://www.holbertonschool.com/) (Staff and Students)
